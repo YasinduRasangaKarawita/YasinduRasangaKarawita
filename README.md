@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in//in/yasindu-rasanga-karawita-481549247" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="/in/yasindu-rasanga-karawita-481549247" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/yasindu-rasanga-karawita-481549247" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="/in/yasindu-rasanga-karawita-481549247" height="40" width="40" /></a>
 <a href="https://fb.com/yasindu rasanga karawita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasindu rasanga karawita" height="40" width="40" /></a>
 <a href="https://instagram.com/yasindu_rasanga_karawita" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="yasindu_rasanga_karawita" height="40" width="40" /></a>
 </p>
