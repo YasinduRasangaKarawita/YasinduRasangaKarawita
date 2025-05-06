@@ -5,6 +5,8 @@
 
 ---
 
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+
 - 🔭 I’m currently working on **Pet care and treatment system**
 
 - 🌱 I’m currently learning **MERN Stack**
@@ -31,4 +33,3 @@
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=YasinduRasangaKarawita&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YasinduRasangaKarawita&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinduRasangaKarawita&theme=tokyonight)
