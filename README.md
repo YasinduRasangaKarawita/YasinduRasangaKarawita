@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasindu Rasanga Karawita</h1>
-<h4 align="center">A passionate IT student from Sri Lanka. Currently studying as undergraduate in Sri Lanka Institute of Information Technology (SLIIT)</h4>
+<h4 align="center">A passionate software engineering student from Sri Lanka. Currently studying as a undergraduate in Sri Lanka Institute of Information Technology (SLIIT)</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yasindurasangakarawita&label=Profile%20views&color=0e75b6&style=flat" alt="yasindurasangakarawita" /> </p>
 
