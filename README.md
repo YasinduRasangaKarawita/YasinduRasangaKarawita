@@ -7,9 +7,9 @@
 
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
-- 🔭 I’m currently working on **Pet care and treatment system**
+- 🔭 I’m currently working on **Air pollution exposure minimizer app**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **C# and React Native**
 
 - 📫 How to reach me **yasindukarawita@gmail.com**
 
