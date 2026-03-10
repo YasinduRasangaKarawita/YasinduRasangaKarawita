@@ -7,9 +7,9 @@
 
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
-- 🔭 I’m currently working on **Air pollution exposure minimizer app**
+- 🔭 I’m currently working on **Food tracebility web app & AI telemedicine microservices system**
 
-- 🌱 I’m currently learning **C# and React Native**
+- 🌱 I’m currently learning **Go & SpringBoot**
 
 - 📫 How to reach me **yasindukarawita@gmail.com**
 
